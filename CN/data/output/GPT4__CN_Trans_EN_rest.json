@@ -1,0 +1,347 @@
+{
+    "d097ed99c7c748bfb21ad2deb7a1fff7": [
+        "Output:\n{\n  \"queId\": \"d097ed99c7c748bfb21ad2deb7a1fff7\",\n  \"problem\": \"从$$1$$，$$2$$，$$3$$，$$4$$\\\\ldots\\\\ldots$$2017$$中，最多能选出多少个数，在这些数中，不存在三个数$$a$$，$$b$$，$$c$$满足$$a+b=c$$？\",\n  \"trans_problem\": \"From the numbers $$1$$, $$2$$, $$3$$, $$4$$, \\ldots, $$2017$$, what is the maximum number of numbers that can be selected such that among them there are no three numbers $$a$$, $$b$$, $$c$$ satisfying $$a+b=c$$?\"\n}"
+    ],
+    "d36e8ceba9294ee8ac5049d4004c2a53": [
+        "{\"queId\": \"d36e8ceba9294ee8ac5049d4004c2a53\", \"problem\": \"$$6$$个大于零的连续奇数的乘积是$$135135$$，则这$$6$$个数中最大的是多少？ \", \"trans_problem\": \"The product of $$6$$ consecutive odd numbers greater than zero is $$135135$$. What is the largest of these $$6$$ numbers?\"}"
+    ],
+    "57b246366b5841f6bc9b8bdf61f7d741": [
+        "{\n  \"queId\": \"57b246366b5841f6bc9b8bdf61f7d741\",\n  \"problem\": \"有一公共汽车路线，包括起点和终点共有$$15$$个车站，如果有一辆这路线的公共汽车﹐除终点外﹐每一站上车的乘客中﹐恰好有一位乘客在以后的每一个车站下车﹐为了使每位上车的乘客都有座位﹐则这辆公共汽车最少要有多少个座位？ \",\n  \"trans_problem\": \"There is a bus route with a total of $$15$$ stops, including the starting point and the final destination. On this route, except at the final stop, exactly one passenger from those who board at each stop disembarks at each subsequent stop. To ensure that each passenger who boards has a seat, what is the minimum number of seats required on the bus?\"\n}"
+    ],
+    "66375f25a52b4723aed68a03135a378b": [
+        "{\n  \"queId\": \"66375f25a52b4723aed68a03135a378b\",\n  \"problem\": \"老师向$$A$$、$$B$$、$$C$$、$$D$$和$$E$$五位同学按次序派$$48$$粒糖果给他们，每次每人一粒．$$B$$同学和$$D$$同学将合共得到~\\\\uline{~~~~~~~~~~}~粒。\",\n  \"trans_problem\": \"A teacher distributes $$48$$ candies to five students named $$A$$, $$B$$, $$C$$, $$D$$, and $$E$$ in order, giving one candy to each student at a time. Students $$B$$ and $$D$$ will together receive a total of \\\\uline{~~~~~~~~~~} candies.\"\n}"
+    ],
+    "fa4ff9a71c9742888e3efca0996e9592": [
+        "{\n    \"queId\": \"fa4ff9a71c9742888e3efca0996e9592\", \n    \"problem\": \"设$$A$$为一位数，若四位数$$\\\\overline{A802}$$能被$$9$$整除，那么六位数$$\\\\overline{A2020A}$$被$$9$$除时的余数是什么？\",\n    \"trans_problem\": \"Let $$A$$ be a single-digit number. If the four-digit number $$\\\\overline{A802}$$ is divisible by $$9$$, what is the remainder when the six-digit number $$\\\\overline{A2020A}$$ is divided by $$9$$?\"\n}"
+    ],
+    "bdb8f0c97ad541ebacdb3f83d1658d4f": [
+        "{\n  \"queId\": \"bdb8f0c97ad541ebacdb3f83d1658d4f\", \n  \"problem\": \"（喜茶题，书写过程）计算：$$\\\\frac{2010}{2008}+\\\\frac{2010\\\\times 2009}{2008\\\\times 2007}+\\\\frac{2010\\\\times 2009\\\\times 2008}{2008\\\\times 2007\\\\times 2006}+\\\\cdot \\\\cdot \\\\cdot +\\\\frac{2010\\\\times 2009\\\\times \\\\cdot \\\\cdot \\\\cdot \\\\times 4\\\\times 3}{2008\\\\times 2007\\\\times \\\\cdot \\\\cdot \\\\cdot \\\\times 2\\\\times 1}=$$~\\\\uline{~~~~~~~~~~}~． \",\n  \"trans_problem\": \"Calculate the sum: $$\\\\frac{2010}{2008}+\\\\frac{2010\\\\times 2009}{2008\\\\times 2007}+\\\\frac{2010\\\\times 2009\\\\times 2008}{2008\\\\times 2007\\\\times 2006}+\\\\cdots +\\\\frac{2010\\\\times 2009\\\\times \\\\cdots \\\\times 4\\\\times 3}{2008\\\\times 2007\\\\times \\\\cdots \\\\times 2\\\\times 1}=$$.\"\n}"
+    ],
+    "573ae2abfb114dc6a9058ebb4c34a133": [
+        "{\"queId\": \"573ae2abfb114dc6a9058ebb4c34a133\", \"problem\": \"一个五位数\noverline27ab4能被$$36$$整除，请问这个五位数最大是~\\uline{~~~~~~~~~~}~。\", \"trans_problem\": \"Find the largest five-digit number\noverline27ab4 that is divisible by $$36$$.\"}"
+    ],
+    "42f2d951374e4e09a207cf3a1a6d7652": [
+        "{\"queId\": \"42f2d951374e4e09a207cf3a1a6d7652\", \"problem\": \"杀手队在某一足球联盟中要和其他六个队中的每一队都要比赛一次．已知杀手队在六次比赛中任何一次比赛打胜、打败或成平手的概率都是$$\\\\frac{1}{3}$$．设杀手队在打完这六场比赛后，打胜的次数多于打败次数的概率为$$\\\\frac{m}{n}$$，其中$$m$$，$$n$$是互素的正整数．求$$m+n$$．\", \"trans_problem\": \"The Killer team is set to play a match against each of six other teams in a certain football league. It is known that the probability of the Killer team winning, losing, or drawing any single match is $$\\\\frac{1}{3}$$. Let the probability that the Killer team has more wins than losses after completing these six games be $$\\\\frac{m}{n}$$, where $$m$$ and $$n$$ are coprime positive integers. Find the sum $$m+n$$.\"}"
+    ],
+    "17b346e38eb14225bb571fde56ca832f": [
+        "{\n\"queId\": \"17b346e38eb14225bb571fde56ca832f\",\n\"problem\": \"三年级学生排成一个方阵进行体操表演，最外一层的人数为$$32$$人，问方阵最外层每边有多少人？\",\n\"trans_problem\": \"Third-grade students are arranged in a square formation for a gymnastics performance. If the number of people in the outermost layer is $$32$$, how many people are there on each side of the outermost layer?\"\n}"
+    ],
+    "dac69af19d5c479fbc39153f568d7e2c": [
+        "{\n  \"queId\": \"dac69af19d5c479fbc39153f568d7e2c\", \n  \"problem\": \"若关于\\\\emph{z}的整系数方程$${{z}^{3}}+p{{z}^{2}}+qz+r=0$$的三个复数根在复平面内恰好成为一个等腰直角三角形的三个顶点，求这个等腰直角三角形的面积的最小值.\",\n  \"trans_problem\": \"If the three complex roots of the polynomial equation $${{z}^{3}}+p{{z}^{2}}+qz+r=0$$ with integer coefficients form the vertices of an isosceles right triangle in the complex plane, determine the minimum possible area of this triangle.\"\n}"
+    ],
+    "f92208f927354261806adc7ce5590b92": [
+        "{\"queId\": \"f92208f927354261806adc7ce5590b92\", \"problem\": \"$${{2}^{4}}\\\\times {{3}^{3}}\\\\times {{4}^{5}}\\\\times {{5}^{12}}$$是一个$$n$$位数，则$$n$$的值为：~\\\\uline{~~~~~~~~~~}~ \", \"trans_problem\": \"The number $${{2}^{4}}\\\\times {{3}^{3}}\\\\times {{4}^{5}}\\\\times {{5}^{12}}$$ is a $$n$$-digit number. Find the value of $$n$$. \"}"
+    ],
+    "300abfb6b8f843dd8bbab93d7a18c5b9": [
+        "{\"queId\": \"300abfb6b8f843dd8bbab93d7a18c5b9\", \"problem\": \"将$$2015$$减去它的 $$\\\\frac{1}{2}$$ ﹐再减去余下的 $$\\\\frac{1}{3}$$﹐再减去余下的 $$\\\\frac{1}{4}$$ ，再减去余下的$$\\\\frac{1}{5}$$ ，$$\\\\ldots $$依次类推﹐一直到最后减去余下的 $$\\\\frac{1}{2015}$$﹐最后剩下的数是多少? If $$2015$$ is subtracted by $$\\\\frac{1}{2}$$ of its value, then subtracted by $$\\\\frac{1}{3}$$ of the remainder, then subtracted by $$\\\\frac{1}{4}$$ of the remainder and so on until it is subtracted by $$\\\\frac{1}{2015}$$ of the remainder Find the value after all the subtractions． \", \"trans_problem\": \"If we start with $$2015$$ and subtract $$\\\\frac{1}{2}$$ of it, then subtract $$\\\\frac{1}{3}$$ of the remaining amount, then subtract $$\\\\frac{1}{4}$$ of the new remainder, and continue this pattern until finally subtracting $$\\\\frac{1}{2015}$$ of the last remainder, what is the value of the final remainder?\"}"
+    ],
+    "ba2afec5bbf4495183789c4bc81087c1": [
+        "{\"queId\": \"ba2afec5bbf4495183789c4bc81087c1\", \"problem\": \"甲、乙二人由$$A$$地同时出发朝向$$B$$地前进，$$A$$、$$B$$两地之距离为$$36$$千米．甲步行之速度为每小时$$4$$千米，乙步行之速度为每小时$$5$$千米．现有一辆自行车，甲骑车速度为每小时$$10$$千米，乙骑车的速度为每小时$$8$$千米．出发时由甲先骑车，乙步行，为了要使两人都尽快抵达目的地，骑自行车在前面的人可以将自行车留置在途中供后面的人继续骑．请问他们从出发到最后一人抵达目的地最少需要多少小时？（换车的时间忽略不计） \", \"trans_problem\": \"Person A and B set off simultaneously from point $$A$$ towards point $$B$$, with the distance between points $$A$$ and $$B$$ being $$36$$ kilometers. Person A walks at a speed of $$4$$ kilometers per hour, while Person B walks at $$5$$ kilometers per hour. There is also a bicycle available. Person A can ride the bike at $$10$$ kilometers per hour, and Person B can ride it at $$8$$ kilometers per hour. At the start, Person A rides the bike and Person B walks. To ensure that both persons arrive at the destination as soon as possible, the person riding the bicycle can leave it along the way for the other person to continue riding. What is the minimum number of hours required from the start until the last person arrives at the destination? (Ignore the time taken to switch riders.)\"}```"
+    ],
+    "42d53fc750e54b02933879299d82ad9e": [
+        "{\"queId\": \"42d53fc750e54b02933879299d82ad9e\", \"problem\": \"计算$$4\\\\frac{10}{17}\\\\times 3\\\\frac{6}{11}\\\\times 3\\\\frac{5}{13}\\\\times 3\\\\frac{7}{26}$$．\", \"trans_problem\": \"Evaluate $$4\\\\frac{10}{17}\\\\times 3\\\\frac{6}{11}\\\\times 3\\\\frac{5}{13}\\\\times 3\\\\frac{7}{26}$$.\"}"
+    ],
+    "caccc74d3d244477927327f28d373519": [
+        "Output:\n{\n    \"queId\": \"caccc74d3d244477927327f28d373519\",\n    \"problem\": \"求不大于$$\\\\sqrt{2015+12+5}$$的质数共有多少个？  How many primes numbers are there which is not greater than $$\\\\sqrt{2015+12+5}$$? \",\n    \"trans_problem\": \"How many prime numbers are there that are not greater than $$\\\\sqrt{2015 + 12 + 5}$$?\"\n}"
+    ],
+    "6e491abaf68b4717a4bfeced3a41b421": [
+        "{\"queId\": \"6e491abaf68b4717a4bfeced3a41b421\", \"problem\": \"$$990$$有很多因数，这些因数的平均数是． \", \"trans_problem\": \"The number $$990$$ has many factors. What is the average of these factors?\"}"
+    ],
+    "8beb7e67d06b4b3286927850820109f8": [
+        "It seems like there is a typo in the last sentence of the provided Chinese math problem. The sentence \"那么，有个桃子．\" is incomplete and does not specify the question clearly. To translate the provided information properly, I need the full and accurate text of the problem in Chinese. Could you please provide the complete sentence or clarify the question?"
+    ],
+    "8738fb4631a84d3bb8f708ad9b109d27": [
+        "{\n  \"queId\": \"8738fb4631a84d3bb8f708ad9b109d27\",\n  \"problem\": \"有两组数，第一组有$$1$$、$$3$$、$$5$$、$$7$$、$$9$$、$$11$$、$$13$$；第二组有$$2$$、$$4$$、$$6$$、$$8$$、$$10$$、$$12$$、$$14$$；如果从每一组中都任选一个数相加求和，能得到几个不同的和？\",\n  \"trans_problem\": \"There are two sets of numbers; the first set contains $$1$$, $$3$$, $$5$$, $$7$$, $$9$$, $$11$$, $$13$$, and the second set contains $$2$$, $$4$$, $$6$$, $$8$$, $$10$$, $$12$$, $$14$$. How many different sums can be obtained by selecting one number from each set and adding them together?\"\n}"
+    ],
+    "96e91848cbda44e9ae1cf8e01e13bdec": [
+        "{\n  \"queId\": \"96e91848cbda44e9ae1cf8e01e13bdec\", \n  \"problem\": \"两个水池内有金鱼若干条，数目相同．亮亮和红红进行捞鱼比赛，第一个水池内的金鱼被捞完时，亮亮和红红所捞到的金鱼数目比是$$3:4$$；捞完第二个水池内的金鱼时，亮亮比第一次多捞$$33$$条，与红红捞到的金鱼数目比是$$5:3$$，每个水池内有金鱼条． \",\n  \"trans_problem\": \"There are goldfish in two ponds, and the number in each pond is the same. During a fish-catching competition, after all the fish are caught from the first pond, the ratio of the number of fish caught by Liangliang to that caught by Honghong is $$3:4$$. After catching fish from the second pond, Liangliang caught $$33$$ more fish than the first time, and the ratio of the number of fish caught by Liangliang to that caught by Honghong is $$5:3$$. Find the number of goldfish in each pond.\"\n}"
+    ],
+    "37c41d622efe4558a50c0557bfcaf89e": [
+        "{\n  \"queId\": \"37c41d622efe4558a50c0557bfcaf89e\",\n  \"problem\": \"计算：$$\\\\left( 2\\\\frac{7}{500}\\\\times 1000 \\\\right)\\\\div \\\\left( \\\\frac{1}{1006}+\\\\frac{2}{1006}+\\\\frac{3}{1006}+\\\\cdots +\\\\frac{1005}{1006}+\\\\frac{1006}{1006} \\\\right)$$．\",\n  \"trans_problem\": \"Calculate the value of $$\\\\left( 2\\\\frac{7}{500}\\\\times 1000 \\\\right)\\\\div \\\\left( \\\\frac{1}{1006}+\\\\frac{2}{1006}+\\\\frac{3}{1006}+\\\\cdots +\\\\frac{1005}{1006}+\\\\frac{1006}{1006} \\\\right)$$.\"\n}"
+    ],
+    "cf35c01849be4321b4cfea2873b35beb": [
+        "{\"queId\": \"cf35c01849be4321b4cfea2873b35beb\", \"problem\": \"有多少个是$$8$$的倍数的三位数？  How many three-digit numbers, which are multiples of $$8$$ are there? \", \"trans_problem\": \"How many three-digit numbers are multiples of $$8$$?\"}"
+    ],
+    "d74204c8eb1149ccb2175090ad7d6341": [
+        "{\n  \"queId\": \"d74204c8eb1149ccb2175090ad7d6341\",\n  \"problem\": \"计算$$79999999+7999999+799999+79999+7999+799+79$$．\",\n  \"trans_problem\": \"Calculate $$79999999 + 7999999 + 799999 + 79999 + 7999 + 799 + 79$$.\"\n}"
+    ],
+    "2f5127949a7642a488f2fc4497c2bfc1": [
+        "{\"queId\": \"2f5127949a7642a488f2fc4497c2bfc1\", \"problem\": \"如果把一根木棍锯成$$5$$段需要$$4$$分钟．如果锯成$$10$$段需要分钟．\", \"trans_problem\": \"If it takes $$4$$ minutes to saw a stick into $$5$$ pieces, how many minutes does it take to saw it into $$10$$ pieces?\"}"
+    ],
+    "5114cc472004430092ce0a21c87f93ad": [
+        "{\"queId\": \"5114cc472004430092ce0a21c87f93ad\", \"problem\": \"甲、乙、丙三户人家打算订阅报纸，共有$$7$$种不同的报纸可供选择，已知每户人家都订三份不同的报纸，并且知道这三户人家每两户所订的报纸恰好有一份相同，那么三户人家共有多少种不同的订阅方式？ \", \"trans_problem\": \"Family A, B, and C plan to subscribe to newspapers. There are $$7$$ different newspapers to choose from. It is known that each family subscribes to three different newspapers and that each pair of families has exactly one newspaper in common. How many different subscription options are there for the three families combined?\"}"
+    ],
+    "a29a7cb95d36417488cafd23d240c1ca": [
+        "{\n  \"queId\": \"a29a7cb95d36417488cafd23d240c1ca\", \n  \"problem\": \"用$$0$$、$$1$$、$$2$$、$$3$$、$$4$$和$$5$$六个数字可以组成多少个不同的两位数？（数字不可重复使用） How many two-digit numbers can be formed by using six numbers $$0$$，$$1$$，$$2$$，$$3$$，$$4$$ and $$5$$?\", \n  \"trans_problem\": \"How many different two-digit numbers can be formed using the digits $$0$$, $$1$$, $$2$$, $$3$$, $$4$$, and $$5$$ without repeating any digit?\"\n}"
+    ],
+    "42d644991dda4c20864a386b983cf1a4": [
+        "Since the input example provided contains both Chinese and English (thus, already partially translated), I will ensure that the output provided offers a fully translated English version of the problem.\nOutput:\n{\n  \"queId\": \"42d644991dda4c20864a386b983cf1a4\",\n  \"problem\": \"六个正整数之和是$$18$$，求它们乘积的最大可能值．  The sum of six positive numbers is $$18$$, find their largest possible product. \",\n  \"trans_problem\": \"The sum of six positive integers is $$18$$. Find the maximum possible value of their product.\"\n}"
+    ],
+    "eba18a7bd9e74d419989a438056d15e8": [
+        "Output:\n{\"queId\": \"eba18a7bd9e74d419989a438056d15e8\", \"problem\": \"如图是一个加法算式，算式中``华杯''二字代表的两位数是多少？\", \"trans_problem\": \"In the addition equation shown in the diagram, what two-digit number is represented by the words '华' and '杯'?\"}"
+    ],
+    "8e621b0cb4974d47a689b64a60094d08": [
+        "{\n  \"queId\": \"8e621b0cb4974d47a689b64a60094d08\",\n  \"problem\": \"甲乙两人在春节一共得$$200$$元压岁钱，甲给乙$$40$$元，甲和乙钱数相等，那么，原来甲得了多少元压岁钱？\",\n  \"trans_problem\": \"Person A and person B received a total of $$200$$ yuan in New Year's money. If A gives B $$40$$ yuan, and then A and B have an equal amount of money, how much New Year's money did A originally have?\"\n}"
+    ],
+    "72cc4771678944fc84a60702c7bd1e71": [
+        "Output:\n{\n  \"queId\": \"72cc4771678944fc84a60702c7bd1e71\",\n  \"problem\": \"在图中所示的算式中，不同的汉字代表$$0\\\\sim 9$$中的不同的数字．若已知``同心''$$=10$$，问：振$$+$$兴$$+$$中$$+$$华$$=?$$  $$\\\\frac{振 + 兴 + 中 +~ 华}{两 + 岸 + 四 + 地 + 同心}=1$$\",\n  \"trans_problem\": \"In the equation shown in the diagram, different Chinese characters represent different digits from $$0\\\\sim 9$$. If it is known that the character for 'same heart' equals $$10$$, what is the sum of the numerical values represented by the characters for Zhen ($$振$$), Xing ($$兴$$), Zhong ($$中$$), and Hua ($$华$$)? Given that $$\\\\frac{Zhen + Xing + Zhong + Hua}{Liang + An + Si + Di + same heart}=1$$.\"\n}"
+    ],
+    "41e97e7cd5ce493ba09e09c304c70a42": [
+        "{\n  \"queId\": \"41e97e7cd5ce493ba09e09c304c70a42\",\n  \"problem\": \"计算$$\\\\left( 1-\\\\frac{1}{2}+\\\\frac{2}{3}-\\\\frac{3}{4}+\\\\frac{4}{5} \\\\right)\\\\times 120$$．  Evaluate $$\\\\left( 1-\\\\frac{1}{2}+\\\\frac{2}{3}-\\\\frac{3}{4}+\\\\frac{4}{5} \\\\right)\\\\times 120$$. \",\n  \"trans_problem\": \"Calculate $$\\\\left( 1-\\\\frac{1}{2}+\\\\frac{2}{3}-\\\\frac{3}{4}+\\\\frac{4}{5} \\\\right)\\\\times 120$$.\"\n}"
+    ],
+    "ce2e3d8335a747689cabb06eff35f82a": [
+        "{\n  \"queId\": \"ce2e3d8335a747689cabb06eff35f82a\",\n  \"problem\": \"甲今年的年龄是乙的$$7$$倍，过若干年，甲的年龄是乙的$$6$$倍，再过若干年，甲的年龄分别是乙的$$5$$倍、$$4$$倍、$$3$$倍及$$2$$倍，问甲今年岁数的最小值~\\\\uline{~~~~~~~~~~}~． \",\n  \"trans_problem\": \"This year, A's age is $$7$$ times that of B's age. In a few years, A's age will be $$6$$ times that of B's. After some more years, A's age will be $$5$$ times, then $$4$$ times, $$3$$ times, and finally $$2$$ times B's age consecutively. What is the minimum age A could be this year?\"\n}"
+    ],
+    "3dc36adc55ee4e9eb03d39e5475aedc0": [
+        "{\n  \"queId\": \"3dc36adc55ee4e9eb03d39e5475aedc0\",\n  \"problem\": \"求$$480$$的正因数之和．  Find the sum of all positive factors of $$480$$． \",\n  \"trans_problem\": \"Find the sum of all positive factors of $$480$$.\"\n}"
+    ],
+    "d77725b3f70f4f05b52d52d2df89f083": [
+        "Output:\n{\"queId\": \"d77725b3f70f4f05b52d52d2df89f083\", \"problem\": \"在$$3$$位数当中，有多少个是完全平方数？  How many $$3$$-digit numbers are square numbers? \", \"trans_problem\": \"How many three-digit numbers are perfect squares?\"}"
+    ],
+    "bfbb3c304a4d4693ad54e6006751c56c": [
+        "{\"queId\": \"bfbb3c304a4d4693ad54e6006751c56c\", \"problem\": \"实数$$a$$、$$b$$、$$c$$满足$${{a}^{2}}+{{b}^{2}}+{{c}^{2}}=\\lambda \\left( \\lambda \\textgreater0 \\right)$$，试求$$f=\\min \\left { {{\\left( a-b \\right)}^{2}},{{\\left( b-c \\right)}^{2}},{{\\left( c-a \\right)}^{2}} \\right }$$的最大值．\", \"trans_problem\": \"Given that real numbers $$a$$, $$b$$, and $$c$$ satisfy $${{a}^{2}}+{{b}^{2}}+{{c}^{2}}=\\lambda \\left( \\lambda \\textgreater0 \\right)$$, find the maximum value of $$f=\\min \\left { {{\\left( a-b \\right)}^{2}},{{\\left( b-c \\right)}^{2}},{{\\left( c-a \\right)}^{2}} \\right }$$.\"}```"
+    ],
+    "78a57bcb32614993a93df02987da28e6": [
+        "{\n\"queId\": \"78a57bcb32614993a93df02987da28e6\",\n\"problem\": \"求方程$$\\tan \\left( 19x{}^{}\\circ \\right)=\\frac{\\cos 96{}^{}\\circ +\\sin 96{}^{}\\circ }{\\cos 96{}^{}\\circ -\\sin 96{}^{}\\circ }$$的最小正整数解．\",\n\"trans_problem\": \"Find the smallest positive integer solution to the equation $$\\tan(19x^\\circ) = \\frac{\\cos 96^\\circ + \\sin 96^\\circ}{\\cos 96^\\circ - \\sin 96^\\circ}$$.\"\n}"
+    ],
+    "afef06344447456d8d407f685fc985c5": [
+        "{\"queId\": \"afef06344447456d8d407f685fc985c5\", \"problem\": \"艾迪和薇儿一共买了$$58$$本书．如果艾迪把$$9$$本书送给薇儿，艾迪就比薇儿少了$$4$$本书．那么，艾迪原来买了多少本书?\", \"trans_problem\": \"Eddie and Viola bought a total of $$58$$ books. If Eddie gives Viola $$9$$ books, Eddie will have $$4$$ fewer books than Viola. How many books did Eddie originally buy?\"}"
+    ],
+    "ab6732bb56374263b2c8aebd54668156": [
+        "{\n  \"queId\": \"ab6732bb56374263b2c8aebd54668156\",\n  \"problem\": \"有一袋糖果中，士多啤梨糖占$$20 \\\\%$$，橙糖占$$55 \\\\%$$，其餘是柠檬糖；已知士多啤梨糖及柠檬糖合共有$$36$$颗，问该袋糖果共有多少颗？ \",\n  \"trans_problem\": \"In a bag of candies, strawberry candies make up $$20 \\\\%$$ and orange candies make up $$55 \\\\%$$. The rest are lemon candies. If it is known that there are a total of $$36$$ strawberry and lemon candies combined, how many candies are there in the bag?\"\n}"
+    ],
+    "cab8a6c1c0d24ff09a30d7985967620a": [
+        "{\n  \"queId\": \"cab8a6c1c0d24ff09a30d7985967620a\",\n  \"problem\": \"两个正整数的最小公倍数为$$360$$，最大公因数为$$60$$，求该两个数的积．  The lowest common multiple and the highest common factor of two positive integers are $$360$$ and $$60$$ respectively. Find the product of the two numbers.\",\n  \"trans_problem\": \"The least common multiple (LCM) of two positive integers is $$360$$, and their greatest common divisor (GCD) is $$60$$. Find the product of these two numbers.\"\n}"
+    ],
+    "cf74b55ffee24592ad69682cd17001b1": [
+        "{\n  \"queId\": \"cf74b55ffee24592ad69682cd17001b1\",\n  \"problem\": \"设二次函数$$f\\\\left( x \\\\right)=a{{x}^{2}}+bx+c$$（$$a,b,c\\\\in \\\\text{R}$$，$$a\\\\ne 0$$）满足条件：  ①当$$x\\\\in \\\\text{R}$$时，$$f\\\\left( x-4 \\\\right)=f\\\\left( 2-x \\\\right)$$，且$$f\\\\left( x \\\\right)\\\\geqslant x$$；  ②当$$x\\\\in (0,2)$$时，$$f\\\\left( x \\\\right)\\\\leqslant {{\\\\left( \\\\frac{x+1}{2} \\\\right)}^{2}}$$；  ③$$f\\\\left( x \\\\right)$$在$$\\\\text{R}$$上的最小值为$$0$$．  求最大的$$m\\\\left( m\\\\textgreater1 \\\\right)$$，使得存在$$t\\\\in \\\\text{R}$$，只要$$x\\\\in [1,m]$$，就有$$f\\\\left( x+t \\\\right)\\\\leqslant x$$．\",\n  \"trans_problem\": \"Consider a quadratic function $$f(x) = ax^2+bx+c$$ ($$a, b, c \\\\in \\\\text{R}$$, $$a \\\\neq 0$$) that satisfies the following conditions: (1) For all $$x \\\\in \\\\text{R}$$, $$f(x-4) = f(2-x)$$, and $$f(x) \\\\geqslant x$$; (2) When $$x \\\\in (0,2)$$, $$f(x) \\\\leqslant \\\\left( \\\\frac{x+1}{2} \\\\right)^2$$; (3) The minimum value of $$f(x)$$ on $$\\\\text{R}$$ is $$0$$. Find the largest $$m$$ (where $$m>1$$), such that for some $$t \\\\in \\\\text{R}$$, whenever $$x \\\\in [1, m]$$, it holds that $$f(x+t) \\\\leqslant x$$.\"\n}"
+    ],
+    "ce4514fd81704586bdea9d07f693d6cf": [
+        "The code snippet you've provided is meant to read a JSON file using Python. It involves importing the json and re modules, with re being the regular expression module in Python. However, the re module is not actually used in the provided snippet.\nHere's a quick breakdown of what each line of the code is doing:\nimport json: This imports Python's built-in JSON module, which is used to work with JSON data.\nimport re: This imports Python's regular expression module, but it's not utilized in the snippet.\nwith open(...) as json_file:: This is a context manager that opens the specified file path in read mode ('r') with UTF-8 encoding. The with statement ensures that the file is properly closed after its suite finishes, even if an error occurs.\nresult_code = json.load(json_file): This reads the content of the file opened as json_file and uses the json module's load function to parse the JSON data into a Python object (typically a dict if the JSON represents an object, or a list if it is an array).\nAssuming the file GPT4_CN_PAL_2.json is formatted correctly and contains valid JSON, the variable result_code should now hold the parsed JSON data after the execution of this code.\nIf you want to actually interact with result_code or perform operations based on its content, you would need to add additional code to handle that data. For example:\n# Print the loaded JSON data\nprint(result_code)\n\n# Suppose the JSON contains a list of items and you want to print each item\nif isinstance(result_code, list):\n    for item in result_code:\n        print(item)\nMake sure that the file path is correct and the file is accessible, or you may encounter a FileNotFoundError. Also, be cautious when dealing with file paths and personal directories, as sharing sensitive information (e.g., file paths containing your username) can pose security risks."
+    ],
+    "fd9f399802eb4f35959a6fac058a2b3f": [
+        "{\"queId\": \"fd9f399802eb4f35959a6fac058a2b3f\", \"problem\": \"香港回归祖国之日是星期几？今天距回归之日还有多少天． \", \"trans_problem\": \"What day of the week was the Hong Kong handover to China? How many days are there from today until the anniversary of the handover?\"}"
+    ],
+    "410a9d007ddf48319a7e8f55c1132cb6": [
+        "{\n  \"queId\": \"410a9d007ddf48319a7e8f55c1132cb6\",\n  \"problem\": \"计算：$$6.25\\\\times 20.16-18.75\\\\times 3.16+12.5\\\\times 2.16$$．\",\n  \"trans_problem\": \"Calculate: $$6.25 \\times 20.16 - 18.75 \\times 3.16 + 12.5 \\times 2.16$$.\"\n}"
+    ],
+    "bbd6be54bc1c4116a4da3311e6673c78": [
+        "{\"queId\": \"bbd6be54bc1c4116a4da3311e6673c78\", \"problem\": \"计算：$$(1350+49+68)+\\\\left( 51+33+650 \\\\right)-180$$． \", \"trans_problem\": \"Calculate: $$(1350+49+68)+\\\\left( 51+33+650 \\\\right)-180$$.\"}"
+    ],
+    "88e7ef06e5454b52bacb98da84c1e220": [
+        "{\"queId\": \"88e7ef06e5454b52bacb98da84c1e220\", \"problem\": \"计算$$9999\\\\times 1111+3333\\\\times 6667$$．\", \"trans_problem\": \"Calculate $$9999 \\times 1111 + 3333 \\times 6667$$.\"}"
+    ],
+    "ff8080814518d524014526a68c4a192b": [
+        "def solution():\n    total = sum((-1)**(i % 2) * (20 - 2 * i) for i in range(10))\n    return total\n\nans = solution()"
+    ],
+    "c601afe9ba1c4a5ead81fc5ff18185c1": [
+        "Output:\n{\n  \"queId\": \"c601afe9ba1c4a5ead81fc5ff18185c1\",\n  \"problem\": \"一队学生排成$$9$$行$$9$$列的方阵，如果去掉最外层$$2$$行$$2$$列，要减少~\\\\uline{~~~~~~~~~~}~人．\",\n  \"trans_problem\": \"A team of students is arranged in a square formation with $$9$$ rows and $$9$$ columns. If the outermost $$2$$ rows and $$2$$ columns are removed, the number of students will be reduced by how many?\"\n}"
+    ],
+    "8aac4907508d5d3d0150a97442e92e8a": [
+        "{\"queId\": \"8aac4907508d5d3d0150a97442e92e8a\", \"problem\": \"已知一个七位自然数$$62xy427$$是$$99$$的倍数（其中$$x$$、$$y$$是阿拉伯数字），试求$$950x+24y+1$$之值，简写出求解过程．\", \"trans_problem\": \"Given that the seven-digit natural number $$62xy427$$ is a multiple of $$99$$ (where $$x$$ and $$y$$ are Arabic numerals), find the value of $$950x + 24y + 1$$. Outline the solution process.\"}"
+    ],
+    "84e19124f9f84ed69220339e7a2f2f11": [
+        "def solution():\n    for total_gums in range(1, 1000):  # search in a reasonable range\n        remaining_after_music = total_gums - 2  # ate 2 during music lesson\n        shared_gums = remaining_after_music // 3  # shared one third\n        if remaining_after_music % 3 == 0:  # must be divisible by 3\n            remaining_after_sharing = remaining_after_music - shared_gums\n            if remaining_after_sharing % 4 == 0:  # must be divisible by 4\n                return total_gums  # this is the smallest number of gums\n\nans = solution()"
+    ],
+    "712d0ceee0a544e68fa96e24c30b1e6f": [
+        "{\n  \"queId\": \"712d0ceee0a544e68fa96e24c30b1e6f\",\n  \"problem\": \"一件工程，甲乙丙三队合作，要$$10$$天完成，已知甲队每天的工作效率等于乙丙两队工作效率之和．丙工程队每天的工作效率相当于甲乙两工程队每天工作效率之和的$$\\\\frac{1}{6}$$，那么这件工程如果由乙队单独做，需要几天才能完成？ \",\n  \"trans_problem\": \"For a certain project, teams A, B, and C work together to complete it in $$10$$ days. It is known that team A's daily work efficiency is equal to the combined efficiency of teams B and C. Furthermore, the daily work efficiency of team C is $$\\\\frac{1}{6}$$ of the combined efficiency of teams A and B. How many days would it take team B to complete the project alone?\"\n}"
+    ],
+    "54415aba358c4688b4e5a057678bca1e": [
+        "{\"queId\": \"54415aba358c4688b4e5a057678bca1e\", \"problem\": \"$$43$$只鸡放入$$6$$个笼中，盛载数量最多鸡的笼中至少有多少只鸡？  Put 43 chickens into 6 cages, at least how many chickens are in the cage that holds the largest number of chickens?\", \"trans_problem\": \"If you put $$43$$ chickens into $$6$$ cages, what is the minimum number of chickens that the cage with the most chickens must contain?\"}"
+    ],
+    "4444399f0a8a4fc1bab20a5412633da7": [
+        "{\n    \"queId\": \"4444399f0a8a4fc1bab20a5412633da7\",\n    \"problem\": \"数列$$101,104,109,116,...$$的通项是$${{a}_{n}}=100+{{n}^{2}}$$，其中$$n=1,2,3,...$$，对于每一个$$n$$，用$${{d}_{n}}$$表示$${{a}_{n}}$$与$${{a}_{n+1}}$$的最大公约数，求$${{d}_{n}}$$的最大值，其中$$n$$取一切正整数．\",\n    \"trans_problem\": \"In the sequence $$101, 104, 109, 116, ...$$, the general term is given by $${{a}_{n}}=100+{{n}^{2}}$$, where $$n=1,2,3,...$$. For each $$n$$, let $${{d}_{n}}$$ denote the greatest common divisor (GCD) of $${{a}_{n}}$$ and $${{a}_{n+1}}$$. Find the maximum value of $${{d}_{n}}$$ where $$n$$ takes all positive integer values.\"\n}"
+    ],
+    "b563165b42454d11ad5a21516e84ae01": [
+        "{\"queId\": \"b563165b42454d11ad5a21516e84ae01\", \"problem\": \"$$A$$，$$B$$，$$C$$，$$D$$，$$E$$五个人干一项工作，若$$A$$，$$B$$，$$C$$，$$D$$四人一起干需要$$6$$天完成；若$$B$$，$$C$$，$$D$$，$$E$$四人一起干需要$$8$$天完工；若$$A$$，$$E$$两人一起干需要$$12$$天完工．请问：若$$E$$一人单独干需要~\\\\uline{~~~~~~~~~~}~天完工。 \", \"trans_problem\": \"Five people, $$A$$, $$B$$, $$C$$, $$D$$, and $$E$$, work on a project. If $$A$$, $$B$$, $$C$$, and $$D$$ work together, they need $$6$$ days to complete it; if $$B$$, $$C$$, $$D$$, and $$E$$ work together, it takes $$8$$ days to complete; if $$A$$ and $$E$$ work together, they need $$12$$ days to complete it. How many days would it take for $$E$$ to complete the work alone?\"}"
+    ],
+    "ff6bb71e0cc14653b30b88642153382d": [
+        "{\n\"queId\": \"ff6bb71e0cc14653b30b88642153382d\",\n\"problem\": \"一辆越野车以$$9$$千米/时的速度上山，用了$$4$$小时到达山顶，下山沿原路返回，只用了$$2$$小时到达山脚．求这辆越野车往返一次平均每小时行多少千米？ \",\n\"trans_problem\": \"An off-road vehicle climbs a mountain at a constant speed of $$9$$ kilometers per hour, taking $$4$$ hours to reach the summit. Descending the mountain along the same route, it takes only $$2$$ hours to reach the base. What is the average speed of the off-road vehicle per hour for the round trip?\"\n}"
+    ],
+    "20dc1ffd509b4446a0c0ad303030574c": [
+        ""
+    ],
+    "8aa4c59464614d42af25ea31d06c6f48": [
+        "{\n  \"queId\": \"8aa4c59464614d42af25ea31d06c6f48\",\n  \"problem\": \"要写出一个算式是由一个四位数减去一个三位数，所得的差是一个一位数，例如：$$1000-991=9$$，$$1001-994=7$$，请问总共可写出多少个不同的算式？ \",\n  \"trans_problem\": \"How many different equations can be written where a four-digit number is subtracted by a three-digit number, and the result is a one-digit number? For example, $$1000-991=9$$ and $$1001-994=7$$.\"\n}"
+    ],
+    "c5c5941798cc4139a939b1e29fd3ada3": [
+        "{\"queId\": \"c5c5941798cc4139a939b1e29fd3ada3\", \"problem\": \"有两辆汽车先后离开车站向码头开去．第一辆汽车的速度是每小时$$90$$千米，$$8$$时$$32$$分时，第一辆汽车离车站的距离是第二辆汽车的$$1.2$$倍；到$$9$$时$$20$$分时，第一辆汽车离车站的距离是第二辆汽车的$$2$$倍．如果第一辆汽车是$$8$$时$$08$$分离开车站的，那么第二辆汽车每小时行多少千米？ \", \"trans_problem\": \"Two cars leave a station one after another heading towards a dock. The first car travels at a speed of $$90$$ kilometers per hour. At $$8:32$$ am, the distance of the first car from the station is $$1.2$$ times that of the second car; by $$9:20$$ am, the distance of the first car from the station is $$2$$ times that of the second car. If the first car left the station at $$8:08$$ am, how many kilometers per hour does the second car travel?\"}"
+    ],
+    "08f65a2371fd4f69afb346c9f31853bc": [
+        "{\"queId\": \"08f65a2371fd4f69afb346c9f31853bc\", \"problem\": \"大瓶酒精溶液的质量是小瓶酒精溶液质量的$$2$$倍，大瓶酒精溶液的浓度为$$20 \\\\%$$，小瓶酒精溶液的浓度为$$35 \\\\%$$，将两瓶酒精溶液混合后，酒精溶液的浓度是多少？ \", \"trans_problem\": \"The mass of the large bottle of alcohol solution is $$2$$ times the mass of the small bottle of alcohol solution. The concentration of the large bottle is $$20 \\\\%$$ and the concentration of the small bottle is $$35 \\\\%$$. What is the concentration of the alcohol solution after mixing the two bottles together?\"}"
+    ],
+    "ff80808145933e8e0145983ff9bf08a4": [
+        "{\n  \"queId\": \"ff80808145933e8e0145983ff9bf08a4\",\n  \"problem\": \"由于环境恶化、气候变暖，官厅水库的水在匀速减少，为了保证水库的水量，政府决定从上游的壶流河水库以及册田水库分别向官厅水库进行调水，已知这两个水库的每个闸门放水量是相同的，如果同时打开壶流河水库的$$5$$个闸门$$30$$小时可以使官厅水库水量达到原来的标准，如果同时打开册田水库的$$4$$个闸门$$40$$小时可以使官厅水库水量达到原来的标准，如果$$24$$小时使官厅水库水量达到原来的标准，问需同时打开两个水库的几个闸门？ \",\n  \"trans_problem\": \"Due to environmental degradation and global warming, the water level in Guanting Reservoir is steadily decreasing. To ensure the reservoir's water volume, the government decided to divert water from both Hulu River Reservoir and Cetian Reservoir upstream. It is known that the discharge rate of each gate of these two reservoirs is the same. If $$5$$ gates of the Hulu River Reservoir are opened for $$30$$ hours, it can restore the water level of Guanting Reservoir to its original standard. If $$4$$ gates of the Cetian Reservoir are opened for $$40$$ hours, it can also achieve the standard. How many gates from both reservoirs need to be opened simultaneously to restore the water level to the original standard in $$24$$ hours?\"\n}"
+    ],
+    "6a653d712ebf4cd1b07e2396bcb8a333": [
+        "{\"queId\": \"6a653d712ebf4cd1b07e2396bcb8a333\", \"problem\": \"将$$1$$，$$2$$，$$3$$，$$\\\\cdots $$，$$n$$这$$n$$个数分为甲乙两组，使得每一组中任何两数之和都不是完全平方数，求$$n$$的最大值． \", \"trans_problem\": \"Divide the numbers $$1$$, $$2$$, $$3$$, $$\\\\cdots $$, $$n$$ into two groups, such that the sum of any two numbers in each group is not a perfect square. Find the maximum value of $$n$$. \"}"
+    ],
+    "c440a573f3db4708aadec23d8fc80275": [
+        "{\n  \"queId\": \"c440a573f3db4708aadec23d8fc80275\",\n  \"problem\": \"计算：$$123\\\\times 9+82\\\\times 8+41\\\\times 7-2009$$~~． \",\n  \"trans_problem\": \"Calculate: $$123\\\\times 9+82\\\\times 8+41\\\\times 7-2009$$.\"\n}"
+    ],
+    "170876d7447d48d5b2ffcf1debb1c302": [
+        "{\n  \"queId\": \"170876d7447d48d5b2ffcf1debb1c302\",\n  \"problem\": \"老师打算把一些贴纸平分给$$30$$名同学，每人可得$$10$$张，现在改为平分给$$15$$名同学，每人可得多少张？\",\n  \"trans_problem\": \"A teacher plans to evenly distribute some stickers among $$30$$ students, with each student receiving $$10$$ stickers. Now, if the stickers are to be evenly distributed to $$15$$ students, how many stickers will each student receive?\"\n}"
+    ],
+    "97190590a1e74f9b91215c3278a7e37b": [
+        "{\n  \"queId\": \"97190590a1e74f9b91215c3278a7e37b\",\n  \"problem\": \"设整数$$m\\\\geqslant 3$$，集合$$S=\\\\left { 3,4,5,...,m \\\\right }$$满足以下条件：把$$S$$任意划分成两个子集，至少有一个子集包含整数$$a$$，$$b$$，$$c$$（不一定相异）使得$$ab=c$$．求$$m$$的最小值（集合$$S$$的一个划分是指把$$S$$分为两个集合$$A$$和$$B$$，使得$$A\\\\cap B=\\\\varnothing $$，$$A\\\\cup B=S$$）\",\n  \"trans_problem\": \"Let integer $$m \\\\geqslant 3$$, and consider the set $$S = \\\\left{ 3, 4, 5, ..., m \\\\right}$$ which satisfies the following condition: when $$S$$ is divided into any two subsets, at least one subset must contain integers $$a$$, $$b$$, $$c$$ (not necessarily different) such that $$ab = c$$. Find the minimum value of $$m$$ (a partition of set $$S$$ means dividing $$S$$ into two sets $$A$$ and $$B$$ such that $$A \\\\cap B = \\\\varnothing$$ and $$A \\\\cup B = S$$).\"\n}"
+    ],
+    "0e244fd9c8e5425a97864711cc2106b6": [
+        "Output:\n{\n  \"queId\": \"0e244fd9c8e5425a97864711cc2106b6\",\n  \"problem\": \"计算$$9999\\\\times 2222+3333\\\\times 3334$$．\",\n  \"trans_problem\": \"Evaluate $$9999\\\\times 2222+3333\\\\times 3334$$.\"\n}"
+    ],
+    "4856d44b6f544ce9a51c96b99719fdd9": [
+        "{\"queId\": \"4856d44b6f544ce9a51c96b99719fdd9\", \"problem\": \"计算：$$9+99+999+9999+99999$$ \", \"trans_problem\": \"Calculate: $$9+99+999+9999+99999$$.\"}"
+    ],
+    "0aa2bdde1df64405b48379bb5e52c4ff": [
+        "{\n  \"queId\": \"0aa2bdde1df64405b48379bb5e52c4ff\",\n  \"problem\": \"计算$$\\\\left( {{2}^{2}}+{{4}^{2}}+{{6}^{2}}+{{8}^{2}}+\\\\cdots +{{100}^{2}} \\\\right)-\\\\left( {{1}^{2}}+{{3}^{2}}+{{5}^{2}}+{{7}^{2}}+\\\\cdots +{{99}^{2}} \\\\right)$$．  Evaluate $$\\\\left( {{2}^{2}}+{{4}^{2}}+{{6}^{2}}+{{8}^{2}}+\\\\cdots +{{100}^{2}} \\\\right)-\\\\left( {{1}^{2}}+{{3}^{2}}+{{5}^{2}}+{{7}^{2}}+\\\\cdots +{{99}^{2}} \\\\right)$$． \",\n  \"trans_problem\": \"Calculate the result of $$\\\\left( {{2}^{2}}+{{4}^{2}}+{{6}^{2}}+{{8}^{2}}+\\\\cdots +{{100}^{2}} \\\\right)-\\\\left( {{1}^{2}}+{{3}^{2}}+{{5}^{2}}+{{7}^{2}}+\\\\cdots +{{99}^{2}} \\\\right)$$.\"\n}"
+    ],
+    "23c43d91654d49f68dee9eae412096bd": [
+        "{\n  \"queId\": \"23c43d91654d49f68dee9eae412096bd\",\n  \"problem\": \"甲管注水速度是乙管的一半，同时开放甲、乙两个水管向游泳池注水，$$12$$小时可以注满，现在先开甲管向游泳池注水若干小时，然后由乙管注水，$$9$$小时后将游泳池注满，问：甲管注水的时间是多少．\",\n  \"trans_problem\": \"The water flow rate of pipe A is half that of pipe B. If both pipes A and B are opened at the same time to fill a swimming pool, it takes $$12$$ hours to fill it. Now, if pipe A is first used to fill the pool for a certain number of hours, and then pipe B is used, the swimming pool is filled after $$9$$ hours. How long was pipe A used to fill the pool?\"\n}"
+    ],
+    "11c326c7c3754e5f8aeea34cff4b6ee6": [
+        "{\n  \"queId\": \"11c326c7c3754e5f8aeea34cff4b6ee6\",\n  \"problem\": \"甲、乙、丙三人每分钟分别行$$60$$米、$$50$$米和$$40$$米，甲从$$B$$地、乙和丙从$$A$$地同时出发相向而行，途中甲遇到乙后$$15$$分又遇到丙．求$$A$$，$$B$$两地的距离．\",\n  \"trans_problem\": \"Person A, B, and C walk at speeds of $$60$$ meters, $$50$$ meters, and $$40$$ meters per minute, respectively. A starts from point $$B$$ and both B and C start from point $$A$$ simultaneously, walking towards each other. If A meets B and then meets C after $$15$$ minutes, find the distance between points $$A$$ and $$B$$.\"\n}"
+    ],
+    "fa2df6b1e2544614a50f5835c15ed17e": [
+        "{\n  \"queId\": \"fa2df6b1e2544614a50f5835c15ed17e\",\n  \"problem\": \"在一次选举中，共有$$12$$名候选人，一个选举委员会每名成员投$$6$$票．已知任意两位委员所投的票中至多有$$2$$名候选人相同．求委员会人数的最大值．\",\n  \"trans_problem\": \"In an election, there are a total of $$12$$ candidates, and each member of an election committee casts $$6$$ votes. It is known that any two members of the committee have at most $$2$$ candidates in common in the votes they cast. Determine the maximum number of members on the committee.\"\n}"
+    ],
+    "7603c50ba6e041689c495c50213d5442": [
+        "{\"queId\": \"7603c50ba6e041689c495c50213d5442\", \"problem\": \"求$$\\frac{1}{2\\times 3}+\\frac{1}{3\\times 4}+\\frac{1}{4\\times 5}+\\cdots +\\frac{1}{99\\times 100}$$的值，并以小数表示答案． \", \"trans_problem\": \"Calculate the value of $$\\frac{1}{2\\times 3}+\\frac{1}{3\\times 4}+\\frac{1}{4\\times 5}+\\cdots +\\frac{1}{99\\times 100}$$ and express the answer as a decimal.\"}"
+    ],
+    "57bb253343f44760996f1de6e693b8b2": [
+        "Output:\n{\"queId\": \"57bb253343f44760996f1de6e693b8b2\", \"problem\": \"设整数$$N$$能被$$36$$整除，它各数位上的数字两两不同且都是偶数．求$$N$$的最大值除以$$1000$$所得的余数．\", \"trans_problem\": \"Suppose an integer $$N$$ is divisible by $$36$$, and each digit of $$N$$ is different and even. Find the remainder when the maximum value of $$N$$ is divided by $$1000$$.\"}"
+    ],
+    "f1027964e8de410b9aa6e024484f45b6": [
+        "{\"queId\": \"f1027964e8de410b9aa6e024484f45b6\", \"problem\": \"已知$$10$$个不同的正整数的和是$$2018$$，而且由大到小的第$$5$$个数是$$225$$,那么最小的数最大是什么？ \", \"trans_problem\": \"Given the sum of $$10$$ different positive integers is $$2018$$, and the fifth number from the largest is $$225$$, what is the maximum possible value of the smallest number?\"}"
+    ],
+    "0c7f9e559e3d4290bc663083b2a44a6f": [
+        "{\n\"queId\": \"0c7f9e559e3d4290bc663083b2a44a6f\",\n\"problem\": \"从$$1$$至$$9$$这$$9$$个数中选出$$4$$个不同数字，组成一个四位数，使得这个四位数能被未选出的$$5$$个数字整除，而不能被选出的$$4$$个数字整除．那么，这个四位数是多少？（请说明理由） \",\n\"trans_problem\": \"Select 4 different digits from the numbers $$1$$ to $$9$$ to form a four-digit number. This number must be divisible by the 5 digits that were not selected and must not be divisible by any of the 4 digits that were selected. What is this four-digit number? (Please provide a rationale.)\"\n}"
+    ],
+    "e69998528bff4bd18a4d3773570e9f0d": [
+        "Output:\n{\n  \"queId\": \"e69998528bff4bd18a4d3773570e9f0d\",\n  \"problem\": \"一个工人$$3$$小时磨了$$60$$千克面粉，照这样计算，这个工人磨完$$200$$千克面粉，一共要多少小时？ \",\n  \"trans_problem\": \"A worker grinds $$60$$ kilograms of flour in $$3$$ hours. Based on this rate, how many hours in total will it take for the worker to grind $$200$$ kilograms of flour?\"\n}"
+    ],
+    "0728e263b9fd49269178d273ff588700": [
+        "{\n  \"queId\": \"0728e263b9fd49269178d273ff588700\",\n  \"problem\": \"开始有三个数为$$1$$，$$1$$，$$1$$，每次操作把其中的一个数换成其他两数的和．问：经过$$10$$次操作后所得的三个数中，最大数的最大可能值是多少？\",\n  \"trans_problem\": \"Starting with three numbers $$1$$, $$1$$, $$1$$, each operation replaces one of the numbers with the sum of the other two. What is the maximum possible value of the largest number after $$10$$ operations?\"\n}"
+    ],
+    "654fc4620ae44ac594264b8c7ff3457f": [
+        "{\n  \"queId\": \"654fc4620ae44ac594264b8c7ff3457f\",\n  \"problem\": \"一块长方形铁板，宽是长的$$\\\\frac{4}{5}$$．从宽边截去$$21$$厘米，长边截去$$35 \\\\%$$以后，得到一块正方形铁板．求原来长方形铁板的长是多少厘米？\",\n  \"trans_problem\": \"A rectangular iron plate has a width that is $$\\\\frac{4}{5}$$ of its length. After cutting off $$21$$ cm from the width and $$35 \\\\%$$ of the length, the result is a square iron plate. What is the length of the original rectangular iron plate in centimeters?\"\n}"
+    ],
+    "47a1fecb2db24b53863548e65e302713": [
+        "{\"queId\": \"47a1fecb2db24b53863548e65e302713\", \"problem\": \"若$$96\\times 97\\times 98\\times 99\\times 100\\times 101\\times 102\\times 103\\times 104$$的乘积是一个$$W$$位数，求$$W$$的值． \", \"trans_problem\": \"If the product of $$96\\times 97\\times 98\\times 99\\times 100\\times 101\\times 102\\times 103\\times 104$$ is a number with $$W$$ digits, determine the value of $$W$$. \"}"
+    ],
+    "a35091afdf3f4e3c8b206ad47e6f66af": [
+        "{\n  \"queId\": \"a35091afdf3f4e3c8b206ad47e6f66af\",\n  \"problem\": \"甲、乙两人从$$A$$地，丙从$$B$$地同时出发，相向而行，甲、丙在$$C$$地相遇．相遇后，甲立即掉头，并与乙在$$A$$、$$B$$两地中点相遇，此时丙走了$$2017$$米．当甲回到$$A$$地时，乙刚好走到$$C$$地．那么，$$A$$、$$B$$两地的距离是多少米？\",\n  \"trans_problem\": \"Person A and Person B start from point $$A$$ while Person C starts from point $$B$$. They walk toward each other, and Person A meets Person C at point $$C$$. After meeting, Person A immediately turns around and meets Person B at the midpoint between point $$A$$ and point $$B$$. By this time, Person C has walked $$2017$$ meters. When Person A returns to point $$A$$, Person B reaches point $$C$$. What is the distance in meters between points $$A$$ and $$B$$?\"\n}"
+    ],
+    "17d2397d26f44b1d93852610b53ef81f": [
+        "{\"queId\": \"17d2397d26f44b1d93852610b53ef81f\", \"problem\": \"今天\\uline{小艾}和\\uline{小贝}一起庆祝生日．\\uline{小艾}对\\uline{小贝}说：「今天我的年龄是你的$$8$$倍．」\\uline{小贝}对\\uline{小艾}说：「但是昨天你的年龄是我的$$9$$倍．」\\uline{小贝}现在多少岁？ \", \"trans_problem\": \"Today, \\uline{Xiao Ai} and \\uline{Xiao Bei} are celebrating their birthdays together. \\uline{Xiao Ai} says to \\uline{Xiao Bei}, 'Today, my age is $$8$$ times yours.' \\uline{Xiao Bei} responds to \\uline{Xiao Ai}, 'But yesterday, your age was $$9$$ times mine.' How old is \\uline{Xiao Bei} now?\"}"
+    ],
+    "d08ead43d26e4dd495294f7787823bb8": [
+        "{\"queId\": \"d08ead43d26e4dd495294f7787823bb8\", \"problem\": \"聪明的小朋友们，学完这一节课，可以给你的小伙伴们讲一讲下面这道题目吗？  某小学的六年级有学生$$152$$名，从中选男生人数的$$\\\\frac{1}{11}$$和$$5$$名女生去参加演出，该年级剩下的男女生人数恰好相等，则该小学的六年级共有男生多少名？ \", \"trans_problem\": \"Smart kids, after learning this lesson, can you explain the following question to your peers? In the sixth grade of an elementary school, there are $$152$$ students. If they select $$\\\\frac{1}{11}$$ of the number of boys and $$5$$ girls to participate in a show, and the remaining number of boys and girls in that grade are exactly equal, how many boys are there in the sixth grade of this elementary school?\"}"
+    ],
+    "089175e8ceb64bfca19ad20a7f65e4c3": [
+        "{\"queId\": \"089175e8ceb64bfca19ad20a7f65e4c3\", \"problem\": \"计算：$$41+41+41+41+22+22+22+22+37+37+37+37$$=~\\\\uline{~~~~~~~~~~}~． \", \"trans_problem\": \"Calculate: $$41+41+41+41+22+22+22+22+37+37+37+37$$ = \\\\uline{~~~~~~~~~~}.\"}"
+    ],
+    "0c8eef8fe9f14697bbdd559c9f220c60": [
+        "{\n  \"queId\": \"0c8eef8fe9f14697bbdd559c9f220c60\",\n  \"problem\": \"假定$$n$$是正整数，$$d$$是十进制中的一个数码，若$$\\\\frac{n}{810}=0.d25d25d25...$$，求$$n$$．\",\n  \"trans_problem\": \"Assume $$n$$ is a positive integer and $$d$$ is a digit in the decimal system. Given $$\\\\frac{n}{810}=0.d25d25d25...$$, find $$n$$.\"\n}"
+    ],
+    "cea3b2449fc04bbfa37a8ae90ec85c75": [
+        "{\"queId\": \"cea3b2449fc04bbfa37a8ae90ec85c75\", \"problem\": \"小黄人们排队去买电影票，马克前面已经有$$6$$人在排队，后来又来了$$3$$人，排在马克的后面，请问现在这一队一共有多少人？\", \"trans_problem\": \"The Minions are queuing up to buy movie tickets. There were already $$6$$ people in line in front of Mark. Later, another $$3$$ people joined the line behind Mark. How many people are there in the queue now?\"}"
+    ],
+    "d31141bfc41942e9bf8ea881786a7771": [
+        "{\n  \"queId\": \"d31141bfc41942e9bf8ea881786a7771\",\n  \"problem\": \"数$$\\\\frac{2}{{\\\\log }_{4}{{2000}^{6}}}+\\\\frac{3}{{\\\\log }_{5}{{2000}^{6}}}$$可以写成$$\\\\frac{m}{n}$$的形式，其中$$m$$和$$n$$是互素的正整数．求$$m+n$$．\",\n  \"trans_problem\": \"The expression $$\\\\frac{2}{{\\\\log }_{4}{{2000}^{6}}}+\\\\frac{3}{{\\\\log }_{5}{{2000}^{6}}}$$ can be written in the form $$\\\\frac{m}{n}$$, where $$m$$ and $$n$$ are coprime positive integers. Find $$m+n$$.\"\n}"
+    ],
+    "f52222e2d82c4a9b8aac2b6f0be17af0": [
+        "{\"queId\": \"f52222e2d82c4a9b8aac2b6f0be17af0\", \"problem\": \"在$$1$$至$$99$$这$$99$$个数中最少任意选择多少个不同的整数，才能肯定当中必定有两个数的差是$$15$$？\", \"trans_problem\": \"What is the minimum number of distinct integers that must be chosen from the numbers $$1$$ to $$99$$ to ensure that there are two numbers among them whose difference is $$15$$?\"}"
+    ],
+    "400eba2b346c438e8ffc2b4332a514f8": [
+        "{\"queId\": \"400eba2b346c438e8ffc2b4332a514f8\", \"problem\": \"工人铺一条路基，若每天铺$$260$$米，铺完路长就得比原计划延长$$8$$天；若每天铺$$300$$米，铺完全路长仍要比原计划延长$$4$$天，这条路长多少米． \", \"trans_problem\": \"A worker is paving a road. If the worker paves $$260$$ meters per day, the completion will take $$8$$ days longer than the original plan. If the worker paves $$300$$ meters per day, the completion will still take $$4$$ days longer than the original plan. How many meters long is the road?\"}"
+    ],
+    "da8c815fc65d4cc5987c6e839e5688f4": [
+        "{\n  \"queId\": \"da8c815fc65d4cc5987c6e839e5688f4\",\n  \"problem\": \"美国微软公司有这样一道招聘试题：一天晚上，某合唱团四人必须在最短的时间内赶到演唱会场，途中必须过一座桥，他们只有一只手电筒．每次最多可以由两人同行一起过桥．过桥时，必须手持手电筒，所以就得有人把手电筒带来带去．四人过桥的时间分别是$$1$$分钟、$$2$$分钟、$$5$$分钟、$$10$$分钟．至少需要多少分钟四人都过了河． \",\n  \"trans_problem\": \"In a recruitment test posed by Microsoft USA, there is a situation where four members of a choir must cross a bridge at night to reach a concert venue as quickly as possible. They have only one flashlight between them. A maximum of two people can cross the bridge at a time, and the flashlight must be carried across by someone every time. The times it takes for the individuals to cross the bridge are $$1$$ minute, $$2$$ minutes, $$5$$ minutes, and $$10$$ minutes respectively. Find the minimum number of minutes required for all four members to cross the bridge.\"\n}"
+    ],
+    "b52c6fccdb6842f59b70e2fb90f34496": [
+        "{\n\"queId\": \"b52c6fccdb6842f59b70e2fb90f34496\",\n\"problem\": \"胖胖罗和艾迪在环形跑道上跑步 ，两人同时从同一地点出发，反向而行，胖胖罗每秒跑$$3$$米，艾迪每秒跑$$4$$米，$$45$$秒后两人相遇．如果同向而行，多少秒后艾迪追上胖胖罗？ \",\n\"trans_problem\": \"Pangpang Luo and Eddie are running on a circular track, starting from the same point simultaneously and running in opposite directions. Pangpang Luo runs at a speed of $$3$$ meters per second, and Eddie runs at $$4$$ meters per second. They meet after $$45$$ seconds. If they run in the same direction, after how many seconds will Eddie catch up with Pangpang Luo?\"\n}"
+    ],
+    "f0f35430fce4439ba40e782b157d3dd7": [
+        "Output:\n{\n  \"queId\": \"f0f35430fce4439ba40e782b157d3dd7\",\n  \"problem\": \"将$$1$$分拆成四个相异单位分数（即分子为$$1$$、分母为正整数的分数）之和，求四个相异单位分数中最大分母的最小可能值．\",\n  \"trans_problem\": \"$$1$$ can be represented as the sum of four distinct unit fractions (A unit fraction has a numerator of $$1$$, and its denominator is a positive integer). Find the smallest possible value of the largest denominator among these four distinct unit fractions.\"\n}"
+    ],
+    "b1ab796f71a14d26b3d97d42922efc47": [
+        "{\"queId\": \"b1ab796f71a14d26b3d97d42922efc47\", \"problem\": \"阿姨给小朋友分糖果，如果每人分$$4$$块，还多$$3$$块，如果每人分$$5$$块，则少$$6$$块，阿姨一共有多少块糖？（写出过程）\", \"trans_problem\": \"An aunt is dividing candies among children. If she gives $$4$$ candies to each child, she has $$3$$ candies left over. If she gives $$5$$ candies to each child, she is short of $$6$$ candies. How many candies does the aunt have in total? (Show the process)\"}"
+    ],
+    "ff80808145cc51010145da451cec0db0": [
+        "{\n  \"queId\": \"ff80808145cc51010145da451cec0db0\",\n  \"problem\": \"甲、乙两车分别从$$A$$、$$B$$两地出发，在$$A$$、$$B$$之间不断往返行驶，已知甲车的速度是乙车的速度的$$\\\\frac{3}{7}$$，并且甲、乙两车第$$2007$$次相遇（这里特指面对面的相遇）的地点与第$$2008$$次相遇的地点恰好相距$$120$$千米，那么，$$A$$、$$B$$两地之间的距离等于多少千米？ \",\n  \"trans_problem\": \"Vehicles A and B start from locations $$A$$ and $$B$$ respectively, continuously shuttling back and forth between $$A$$ and $$B$$. It is known that the speed of vehicle A is $$\\\\frac{3}{7}$$ times the speed of vehicle B. The location where vehicles A and B meet for the $$2007$$th time (specifically referring to a head-on encounter) and the location where they meet for the $$2008$$th time are exactly $$120$$ kilometers apart. What is the distance in kilometers between locations $$A$$ and $$B$$?\"\n}"
+    ],
+    "77537179bfbf49858a4b461200e610a5": [
+        "{\"queId\": \"77537179bfbf49858a4b461200e610a5\", \"problem\": \"一列全长为$$300\\\\text{m}$$的火车以每秒$$30\\\\text{m}$$的速度通过一座长度为$$1500\\\\text{m}$$的桥，请问这列火车从刚上桥到全部离开桥需费时多少秒？ \", \"trans_problem\": \"A train with a total length of $$300\\\\text{m}$$ is passing over a bridge that is $$1500\\\\text{m}$$ long at a speed of $$30\\\\text{m}$$ per second. How many seconds does it take for the train to completely cross the bridge from the moment it starts to go onto the bridge until it has fully passed?\"}"
+    ],
+    "0a334425543f497b8dff1d86aeeeeef9": [
+        "{\n  \"queId\": \"0a6fb7dff9f64994b33e59005628cdec\", \n  \"problem\": \"有甲、乙两块匀速生长的草地，甲草地的面积是乙草地面积的$$3$$倍．$$30$$头牛$$12$$天能吃完甲草地上的草，$$20$$头牛$$4$$天能吃完乙草地上的草，问几头牛$$10$$天能同时吃完两块草地上的草？ \",\n  \"trans_problem\": \"There are two pastures, A and B, both growing grass at a constant rate. The area of pasture A is $$3$$ times the area of pasture B. It takes $$30$$ cows $$12$$ days to graze the grass of pasture A completely, and $$20$$ cows $$4$$ days to graze pasture B. How many cows are needed to simultaneously graze both pastures completely in $$10$$ days?\"\n}"
+    ],
+    "19d7933576c046e0912e43b4749d9d72": [
+        "{\n  \"queId\": \"19d7933576c046e0912e43b4749d9d72\",\n  \"problem\": \"一批工人到甲、乙两个工地进行清理工作，甲工地的工作量是乙工地的工作量的$${1}\\\\frac{{1}}{{2}}$$倍．上午去甲工地的人数是去乙工地人数的$$3$$倍，下午这批工人中有$$\\\\frac{{7}}{{{12}}}$$的人去甲工地．其他工人到乙工地．到傍晚时，甲工地的工作已做完，乙工地的工作还需$$4$$名工人再做$$1$$天，那么这批工人有多少人？ \",\n  \"trans_problem\": \"A group of workers went to clean two construction sites, A and B. The workload at site A is $${1}\\\\frac{{1}}{{2}}$$ times that of site B. In the morning, the number of people who went to site A was three times the number of those who went to site B. In the afternoon, $$\\\\frac{{7}}{{12}}$$ of the workers went to site A. The rest went to site B. By the evening, the work at site A was completed, whereas site B still needed $$4$$ workers to work for another day. How many workers are in this group?\"\n}"
+    ],
+    "fd2627cdb55c440296096ae4addd7c10": [
+        "{\n  \"queId\": \"fd2627cdb55c440296096ae4addd7c10\",\n  \"problem\": \"求$$20161227$$ 及$$20141128$$ 乘积的最后两位数． Find the last $$2$$ digits of the product from the multiplication of $$20161227$$ and$$20141128$$?\",\n  \"trans_problem\": \"Find the last two digits of the product of $$20161227$$ and $$20141128$$.\"\n}"
+    ],
+    "432add3dc28143dfb0e5ea638c26001b": [
+        "{\"queId\": \"432add3dc28143dfb0e5ea638c26001b\", \"problem\": \"某牧场有一大片青草，而且每天都生长一样多的草．若有$$17$$头牛吃草，$$28$$天便可以把所有青草吃光；若有$$12$$头牛则需要$$48$$天才可以把青草吃光．若有$$26$$头牛吃草，那么要多少天才可把青草吃光？ \", \"trans_problem\": \"A pasture has a large field of grass growing at a constant rate every day. If $$17$$ cows graze, they can finish all the grass in $$28$$ days; if there are $$12$$ cows, it would take $$48$$ days to finish the grass. How many days would it take for $$26$$ cows to finish the grass?\"}"
+    ],
+    "333fedf230ce45349b5814fb0ccd525b": [
+        "{\"queId\": \"333fedf230ce45349b5814fb0ccd525b\", \"problem\": \"当小明$$6$$岁时，姐姐的年龄和小明今年的年龄相同；当姐姐$$42$$岁时，小明的年龄和姐姐今年的年龄相同，姐姐今年 多少 岁？ \", \"trans_problem\": \"When Xiao Ming was $$6$$ years old, his sister's age was the same as Xiao Ming's age this year. When the sister turns $$42$$ years old, Xiao Ming's age will be the same as the sister's current age. How old is the sister this year?\"}"
+    ],
+    "3222507bc41e408a80db86bdcf54c1a4": [
+        "Output:\n{\n  \"queId\": \"3222507bc41e408a80db86bdcf54c1a4\",\n  \"problem\": \"已知正整数$$n$$满足$$n$$到（$$n+100$$）之间（包括$$n$$和（$$n+100$$））恰有$$6$$个完全平方数，请问所有满足上述条件的$$n$$值共有多少个？\",\n  \"trans_problem\": \"Given a positive integer $$n$$ such that there are exactly $$6$$ perfect squares between $$n$$ and ($$n+100$$), inclusive of $$n$$ and ($$n+100$$), how many possible values of $$n$$ satisfy this condition?\"\n}"
+    ],
+    "556bdf476b174f0c9fbfe01ed8ff53c2": [
+        "{\n  \"queId\": \"556bdf476b174f0c9fbfe01ed8ff53c2\",\n  \"problem\": \"附加题1（10分）甲、乙、丙三人行路，甲每分钟走$$50$$米，乙每分钟走$$60$$米，丙每分钟走$$70$$米，甲乙从东镇去西镇，丙从西镇去东镇，三人同时出发，丙与乙相遇后，又经过$$2$$分钟与甲相遇，求东西两镇间的路程有多少米？ \",\n  \"trans_problem\": \"Bonus question 1 (10 points) Three people, A, B, and C, are walking. A walks $$50$$ meters per minute, B walks $$60$$ meters per minute, and C walks $$70$$ meters per minute. A and B start from East Town towards West Town, while C starts from West Town towards East Town. All three set out at the same time. After meeting B, C meets A $$2$$ minutes later. What is the distance in meters between East Town and West Town?\"\n}"
+    ],
+    "0a6fb7dff9f64994b33e59005628cdec": [
+        "{\n  \"queId\": \"0a6fb7dff9f64994b33e59005628cdec\",\n  \"problem\": \"有甲、乙两块匀速生长的草地，甲草地的面积是乙草地面积的$$3$$倍．$$30$$头牛$$12$$天能吃完甲草地上的草，$$20$$头牛$$4$$天能吃完乙草地上的草，问几头牛$$10$$天能同时吃完两块草地上的草？\",\n  \"trans_problem\": \"There are two plots of grassland, A and B, both growing at a constant rate. The area of grassland A is $$3$$ times the area of grassland B. $$30$$ cows can graze on grassland A for $$12$$ days to consume all its grass, while $$20$$ cows can consume all the grass on grassland B in $$4$$ days. How many cows are needed to graze on both grasslands simultaneously and finish eating all the grass in $$10$$ days?\"\n}"
+    ],
+    "e7e01dca7b8846ee8932f42bb174a8f6": [
+        "{\n\"queId\": \"e7e01dca7b8846ee8932f42bb174a8f6\",\n\"problem\": \"某工程先由甲独做$$63$$天，再由乙单独做$$28$$天即可完成；如果由甲、乙两人合作，需$$48$$天完成．现在甲先单独做$$42$$天，然后再由乙来单独完成，那么乙还需要做多少天？ \",\n\"trans_problem\": \"For a certain project, if person A works alone for $$63$$ days, followed by person B working alone for $$28$$ days, the project can be completed. If person A and B work together, the project can be finished in $$48$$ days. Now, if person A works alone for $$42$$ days, how many more days does person B need to work alone to complete the project?\"\n}"
+    ],
+    "0c1269d9d7534c368ca438cd79975f5b": [
+        "Output:\n{\n  \"queId\": \"0c1269d9d7534c368ca438cd79975f5b\", \n  \"problem\": \"计算$$\\\\left[ \\\\left( 0.8+\\\\frac{1}{5} \\\\right)\\\\times 24+6.6 \\\\right]\\\\div \\\\frac{9}{14}-7.6$$ \", \n  \"trans_problem\": \"Calculate $$\\\\left[ \\\\left( 0.8+\\\\frac{1}{5} \\\\right)\\\\times 24+6.6 \\\\right]\\\\div \\\\frac{9}{14}-7.6$$.\"\n}"
+    ],
+    "1f89dbe1b00e4cb4b8bf78992f087ffd": [
+        "Output:\n{\n  \"queId\": \"1f89dbe1b00e4cb4b8bf78992f087ffd\",\n  \"problem\": \"求满足以下所有条件的所有正整数$$n$$：  ①$$n$$至少有$$4$$个正约数；  ②若$${{d}_{1}}\\\\textless{}{{d}_{2}}\\\\textless{}\\\\cdots \\\\textless{}{{d}_{k}}$$是$$n$$的所有正约数，则$${{d}_{2}}-{{d}_{1}}$$，$${{d}_{3}}-{{d}_{2}}$$，$$\\\\cdots $$，$${{d}_{k}}-{{d}_{k-1}}$$构成等比数列．\",\n  \"trans_problem\": \"Find all positive integers $$n$$ that satisfy all of the following conditions: ① $$n$$ has at least $$4$$ positive divisors; ② If $${{d}_{1}}\\\\textless{}{{d}_{2}}\\\\textless{}\\\\cdots \\\\textless{}{{d}_{k}}$$ are all the positive divisors of $$n$$, then the differences $${{d}_{2}}-{{d}_{1}}$$, $${{d}_{3}}-{{d}_{2}}$$, $$\\\\cdots$$, $${{d}_{k}}-{{d}_{k-1}}$$ form a geometric sequence.\"\n}"
+    ],
+    "091a12ba5d894deba0cdda15a1265d6f": [
+        "{\"queId\": \"091a12ba5d894deba0cdda15a1265d6f\", \"problem\": \"$$2020$$和一个较小的数$$A$$相减，如果$$A$$减少$$5$$，为了要使差增加$$25$$，问$$2020$$要变为多少？ \", \"trans_problem\": \"If a smaller number $$A$$ is subtracted from $$2020$$, and $$A$$ is decreased by $$5$$ to make the difference increase by $$25$$, what should $$2020$$ be changed to?\"}"
+    ],
+    "73bdbe9bc798411ca137fa78564724ee": [
+        "{\n  \"queId\": \"73bdbe9bc798411ca137fa78564724ee\",\n  \"problem\": \"学校推出四款面值分别为$$$10$$，$$$15$$，$$$25$$，$$$40$$的购物券．陈老师买了共$$30$$张购物券﹐其中两款购物券各买了$$5$$张，另外两款购物券各买了$$10$$张．她用了$$x$$张$$$100$$纸币买这些购物券．求$$x$$的值．  A school issue four types of coupons with value $$$10$$, $$$15$$, $$$25$$, $$$40$$ respectively. Miss Chan bought $$30$$ coupons, where $$5$$ coupons each from two types of value and $$10$$ coupons each from the other two types of value. She used $$x$$ pieces of $$$100$$ notes to buy these coupons. Find the value of $$x$$. \",\n  \"trans_problem\": \"A school issues four types of shopping vouchers with denominations of $$$10$$, $$$15$$, $$$25$$, and $$$40$$. Miss Chan bought a total of $$30$$ shopping vouchers, with $$5$$ vouchers from two types and $$10$$ vouchers from the other two types. She used $$x$$ pieces of $$$100$$ notes to purchase these vouchers. Find the value of $$x$$.\"\n}"
+    ],
+    "0f3c2456c0cc491da1a924774194bbdb": [
+        "{\n  \"queId\": \"0f3c2456c0cc491da1a924774194bbdb\",\n  \"problem\": \"小李和小朱一起去新华书店购物布置教室，小李购了$$3$$幅图，每幅$$3$$元$$5$$角，又购大红纸$$5$$张，每张$$1$$元$$2$$角；小朱买了$$2$$盒图钉每盒$$7$$角，还购了$$5$$支固体胶水，单价忘了，二人共用了$$25$$元$$4$$角钱，问小朱买的固体胶水每支多少钱？ \",\n  \"trans_problem\": \"Xiao Li and Xiao Zhu went shopping together at the Xinhua Bookstore to decorate the classroom. Xiao Li bought $$3$$ pictures, each costing $$3$$ yuan and $$5$$ jiao, and also bought $$5$$ sheets of red paper, each costing $$1$$ yuan and $$2$$ jiao; Xiao Zhu bought $$2$$ boxes of thumbtacks, each box costing $$7$$ jiao, and also bought $$5$$ sticks of solid glue, the price of which he forgot. Together, they spent a total of $$25$$ yuan and $$4$$ jiao. How much does each stick of solid glue cost?\"\n}"
+    ],
+    "34c2c9c5817c4b77824d45ca067664f8": [
+        "{\n\"queId\": \"34c2c9c5817c4b77824d45ca067664f8\",\n\"problem\": \"在某次的考试中，甲、乙、丙三人优秀（互不影响）的概率为$$0.5$$，$$0.4$$，$$0.2$$，考试结束后，最容易出现几个人优秀？ \",\n\"trans_problem\": \"In a particular exam, the probabilities that students A, B, and C perform excellently (independently) are $$0.5$$, $$0.4$$, and $$0.2$$, respectively. After the exam, what is the most probable number of students who have performed excellently?\"\n}"
+    ],
+    "aefa952603a1433aa377cb902af1ff96": [
+        "{\n  \"queId\": \"aefa952603a1433aa377cb902af1ff96\",\n  \"problem\": \"维维发现了一种金字塔数串，就算很长的算式也可以马上报出答案，小朋友知道是怎么回事吗？你能用$$3$$秒回答出$$1+2+3+\\\\cdots +100+\\\\cdots +3+2+1$$的结果吗？赶快开动大脑来试试吧！\",\n  \"trans_problem\": \"Vivi has discovered a type of pyramid number sequence, where even very long calculations can be answered immediately. Do you know why? Can you answer in $$3$$ seconds the result of $$1+2+3+\\\\cdots +100+\\\\cdots +3+2+1$$? Quickly activate your brain and give it a try!\"\n}"
+    ],
+    "a810c6e119784b5aae9fe4e0b4ab8eba": [
+        "{\n  \"queId\": \"a810c6e119784b5aae9fe4e0b4ab8eba\",\n  \"problem\": \"有一条七级楼梯．小明每次只向上行一级或两级，问他共有多少个不同方法行完该楼梯．  There is a stairway with seven steps. Sam will walk upstairs either one step or two steps each time. How many different ways are there for Sam to walk up the stairway? \",\n  \"trans_problem\": \"There is a stairway with seven steps. Each time, one can go up by either one step or two steps. How many different methods are there to finish climbing the stairway?\"\n}"
+    ],
+    "039fc881fb944f7696557926f9a2dd91": [
+        "{\"queId\": \"039fc881fb944f7696557926f9a2dd91\", \"problem\": \"从电车总站每隔一定时间开出一辆电车．甲与乙两人在一条街上反方向步行．甲沿电车发车方向每分钟步行$$60$$米，每隔$$20$$分钟有一辆电车从后方超过自己；乙每分钟步行$$80$$米，每隔$$10$$分钟遇上迎面开来的一辆电车．那么电车总站每隔多少分钟开出一辆电车？\", \"trans_problem\": \"A tram leaves the main station at regular intervals. Two persons, A and B, walk in opposite directions on a street. Person A walks at a speed of $$60$$ meters per minute in the direction of the departing trams and is overtaken by a tram from behind every $$20$$ minutes; person B walks at a speed of $$80$$ meters per minute in the opposite direction and encounters an oncoming tram every $$10$$ minutes. How many minutes apart does a tram leave the main station?\"}"
+    ],
+    "72e586104f1543a2820d5c98d63b296f": [
+        "Output:\n{\"queId\": \"72e586104f1543a2820d5c98d63b296f\", \"problem\": \"某长方形和边的长度都是整数，且其面积为$$48$$．求长方形周界的最小可能值．\", \"trans_problem\": \"A rectangle has integral side lengths and its area is $$48$$. Find the smallest possible value of its perimeter.\"}"
+    ],
+    "ed22dc7cbb2e409fa741673e70ff2cbe": [
+        "{\"queId\": \"ed22dc7cbb2e409fa741673e70ff2cbe\", \"problem\": \"李明有$$30$$元钱，张华给李明$$8$$元钱后张华的钱就和李明的钱一样多，张华原来有~\\\\uline{~~~~~~~~~~}~元钱。\", \"trans_problem\": \"Li Ming has $$30$$ yuan. After Zhang Hua gives $$8$$ yuan to Li Ming, Zhang Hua has the same amount of money as Li Ming. How much money did Zhang Hua originally have?\"}"
+    ],
+    "ed3b7bd219164a5285f159e8f4e26c60": [
+        "{\n  \"queId\": \"ed3b7bd219164a5285f159e8f4e26c60\",\n  \"problem\": \"有一五位数$$135XX$$能被$$2$$、$$3$$和$$7$$整除，求这五位数的最小值．  A $$5$$-digit number $$135XX$$ is divisible by $$2$$ , $$3$$ , and $$7$$ . Find the least value of this number. \",\n  \"trans_problem\": \"Find the smallest five-digit number $$135XX$$ that is divisible by $$2$$, $$3$$, and $$7$$.\"\n}"
+    ],
+    "3b58490ebdfb4a2aa8915549f6c358e2": [
+        "{\n  \"queId\": \"3b58490ebdfb4a2aa8915549f6c358e2\",\n  \"problem\": \"学校艺术团共有团员$$45$$人，其中有$$22$$名同学会弹钢琴，$$27$$名同学会拉小提琴，而两样都会的同学人数恰好是两样都不会的同学人数的$$3$$倍，则至少会其中一样的同学有多少名？ \",\n  \"trans_problem\": \"The school art troupe has a total of $$45$$ members, with $$22$$ students able to play the piano and $$27$$ students able to play the violin. If the number of students who can do both is exactly $$3$$ times the number of students who can do neither, what is the minimum number of students who can do at least one of the two?\"\n}"
+    ],
+    "be82541968df46d6bc607c07cd12ada8": [
+        "{\"queId\": \"be82541968df46d6bc607c07cd12ada8\", \"problem\": \"如图所示，\nP、Q是边长为\n1的正方形\nABCD内两点，使得\nanglePAQ=\nanglePCQ=45°。求$S△ms+S_△n+S_△o\\omega $的值。\", \"trans_problem\": \"As shown in the diagram,\nP and\nQ are two points inside a square\nABCD with side length\n1, such that\nanglePAQ=\nanglePCQ=45°. Find the value of\nS\ntrianglePAB\n+S\ntrianglePCD\n+S\ntriangleQAB\n+S\ntriangleQCD\n.\"}"
+    ],
+    "69a1362886364340b73c3c5553b4568e": [
+        "{\n  \"queId\": \"69a1362886364340b73c3c5553b4568e\",\n  \"problem\": \"在 $$2018$$ 年，彼得 $$7$$ 岁、他的弟弟 $$5$$ 岁，彼得的妈妈和爸爸分别是 $$29$$ 岁及$$31$$岁，他们四人的岁数都是质数．问最少多少年后，他们四人的岁数再次全都是质数？  In $$2018$$， Peter was $$7$$ years old， his brother was $$5$$ years old. His mother and father were $$29$$ years old and $$31$$ years old respectively. The ages of all family members were prime numbers. At least how many years later will the ages of all these four persons be prime numbers again? \",\n  \"trans_problem\": \"In the year $$2018$$, Peter was $$7$$ years old, and his brother was $$5$$ years old. Peter's mother and father were respectively $$29$$ and $$31$$ years old. The ages of all four family members were prime numbers. How many years, at the minimum, will pass until the ages of all four family members are prime numbers again?\"\n}"
+    ]
+}
